@@ -1,0 +1,8 @@
+ Card Flip effect – Day 3 
+o Concepts covered: grid layout, border styling, responsive design. 
+o What students learn: how to use grid, how to make flip animation using transform. 
+
+ Animated Profile Cards – Day 3 
+o Concepts covered: flex box, hover, transitions, responsive design. 
+o What students learn: understand flexbox working for layout arrangement, practice hover reveal effects. 
+  
